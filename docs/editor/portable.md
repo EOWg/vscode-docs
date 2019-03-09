@@ -79,9 +79,11 @@ Here's the desired outcome on **Windows**:
 |- VSCode-win32-x64-1.25.0-insider
 |   |- Code.exe (or code executable)
 |   |- data
-|   |   |- user-data
+|   |   |- code
 |   |   |   |- ...
-|   |   |- extensions
+|   |   |   |- extensions
+|   |   |   |- ...
+|   |   |- user-data
 |   |   |   |- ...
 |   |- ...
 ```
